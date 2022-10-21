@@ -1,5 +1,5 @@
 # tsf_bank
-<h3>Task 1 - Basic Banking System</h3>
+<h4>Task 1 - Basic Banking System</h4>
 <h2>Task Description</h2>
 <ul>
   <li>Create a simple dynamic website which has the following specs.
@@ -7,7 +7,7 @@
   <li>Flow of website : Home Page > View all Customers > Select and View one Customer > Transfer Money > Select customer to transfer to >         View all Customers.
   <li>No Login Page. No User Creation. Only transfer of money between multiple users.
 </ul>
-<h2>Tech Satck Used</h2>
+<h2>Tech Stack Used</h2>
 <ul>
 <li>Front-end
 <ul>
